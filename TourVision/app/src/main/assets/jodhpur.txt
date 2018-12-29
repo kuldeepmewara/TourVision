@@ -1,0 +1,56 @@
+5
+Mehrangarh Fort
+26.298074
+73.018407
+discription
+4.6
+A
+B
+C
+90
+100
+0
+Umaid Bhawan Palace
+26.281059
+73.047693	
+discription
+3.8
+A
+B
+C
+50
+150
+1
+Jaswant thada
+26.303648
+73.024684
+discription
+4.4
+A
+B
+C
+35
+20
+1
+Kaylana lake
+26.283333
+72.966667
+discription
+4.3
+A
+B
+C
+35
+0
+1
+Machia safari park
+26.302290
+72.976404
+discription
+3.6
+A
+B
+C
+60
+35
+2

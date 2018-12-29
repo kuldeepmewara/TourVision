@@ -1,0 +1,67 @@
+6
+City palace
+26.9257771
+75.823658
+Description
+4.6
+A
+B
+C
+60
+80
+0
+Hawa Mahal
+26.9239
+75.8267
+Description
+3.9
+A
+B
+C
+20
+20
+1
+Amer Fort
+26.985487
+75.851345
+Description
+4
+A
+B
+C
+45
+60
+0
+Birla Mandir
+26.892157
+75.815502
+D
+3.5
+A
+B
+C
+30
+0
+2
+Dolls Museum
+26.900321
+75.81747
+D
+3.2
+A
+B
+C
+40
+150
+1
+Jaigarh Fort 
+26.9851
+75.8456
+D
+4.2
+A
+B
+C
+60
+75
+2
