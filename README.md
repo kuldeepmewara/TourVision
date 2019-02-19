@@ -22,6 +22,6 @@ This demonstrates that the user can input details such as tour destination, date
 TensorFlow Demo:
 
 https://drive.google.com/open?id=1qfleUKLq1oBK_TDuR32tFtKW-dKxS8Ox
-This app is the demo TensorFlow app in which we have trained our own classifier. This classifier can classify images and label them into five categories- mouse, keyboard, me(Bhanu Pratap) and my two friends(Mridul and Kuldeep).
+This app is the demo TensorFlow app in which we have trained our own classifier. This classifier can classify images and label them into five categories- mouse, keyboard, me(kuldeep) and my two friends(Mridul and bhanu).
 This demonstrates the ability to train the app to recognize the various points of interests such as statues, antiques, etc. In this way the app can act as a tour guide. The app can play audio files in the local language of the tourist to describe the tourist destination.
 The app will show a map of a tourist location and a path drawn on it. It will guide the tourist across the destination.
